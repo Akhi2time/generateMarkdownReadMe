@@ -27,3 +27,28 @@ function generateMarkdown(data) {
 
  ## Installation
  ${data.installation}
+ ## Liscence
+${renderLicenseBadge(data.license)}
+Licese Guidance: 
+${renderLicenseLink()}
+ 
+## Usage
+ ${data.usage}
+
+ ## Contribution 
+${data.contribution}
+
+## Tests
+${data.test}
+
+## Questions 
+- GitHub User Name: ${data.username}
+If you have any questions please reach me at ${data.userEmail}
+
+ 
+
+
+`;
+}
+
+module.exports = generateMarkdown;
