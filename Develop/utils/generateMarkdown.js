@@ -8,3 +8,22 @@ function renderLicenseBadge(license) {
  function renderLicenseLink(){
   return `[License Overview](https://gist.github.com/nicolasdao/a7adda51f2f185e8d2700e1573d8a633)`
  }
+ // TODO: Create a function to generate markdown for README
+function generateMarkdown(data) {
+  return `# ${data.title}
+
+ ## Description
+ ${data.description}
+
+ ##Table of Contents 
+
+- [Installation](#installation)
+- [Liscence](#liscence)
+- [Usage](#usage)
+- [Contribution](#usage)
+- [Tests](#test)
+- [GitHub Username](#username)
+- [Questions](#contactInfo)
+
+ ## Installation
+ ${data.installation}
