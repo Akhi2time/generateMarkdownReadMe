@@ -1,7 +1,7 @@
 # Mohamed's Project
 
  ## Description
- Generate ReadMe
+ To Genrate a Professional ReadMe
 
  ##Table of Contents 
 
@@ -14,20 +14,20 @@
 - [Questions](#contactInfo)
 
  ## Installation
- Npm i, Inquire
+ Npm i, Inquirer
  ## Liscence
 ![Github License](https://img.shields.io/badge/license-GPL-blue.svg)
 Licese Guidance: 
 [License Overview](https://gist.github.com/nicolasdao/a7adda51f2f185e8d2700e1573d8a633)
  
 ## Usage
- Generates a Professional ReadMe
+ Generate a a Professional ReadMe File for coders
 
  ## Contribution 
-Create Test to test my code
+Testing Manual
 
 ## Tests
-Manual Testing
+Manual Wrtie Test to see if its correct
 
 ## Questions 
 - GitHub User Name: Akhi2time
