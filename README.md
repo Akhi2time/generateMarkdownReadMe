@@ -4,4 +4,5 @@ In this project I created and worked on a Professional Markdown ReadMe. This let
 I applied javascript, node.js, inquirer, and terminal to generate a ReadMe file.
 
 GitHub Link: https://github.com/Akhi2time/generateMarkdownReadMe
-Screen Record Link: https://drive.google.com/file/d/1JRx2MMGQmJzdgv_EGGEPscQ4BP9x71LC/view
+
+Screen Record Link: https://drive.google.com/file/d/1m4PLJajJtKLhN64RaithfoiQV7jnLlTk/view?usp=sharing
